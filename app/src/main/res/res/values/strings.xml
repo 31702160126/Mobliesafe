@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">手机安全卫士</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Setings</string>
+    <string name="_sim_sim_bind_info">
+        "绑定SIM卡后,当再次重启手机时，若SIM卡信息
+        发生变化，手机卫士会自动发送报警短息个安全号码！"
+    </string>
+</resources>
